@@ -20,13 +20,14 @@ PetIBM should be installed by following the procedure outlined in B.1 of officia
 ## Requirements
 > - Platforms: Ubuntu 20.04
 > - Mamba
+> - Python = 3.8
 > - PetIBM
-> - Python 3.8, PyTorch = 2.1.0
+> - PyTorch = 2.1.0
 > - Pybind 11
 > - petsc4py 3.16.6
 > - nlohmann
 
-##Citation
+## Citation
 @article{Bai_HyDEA,
   title={Hybrid deep learning and iterative methods for accelerated solutions of viscous incompressible flow},
   author={Heming Bai, and Xin Bian},
