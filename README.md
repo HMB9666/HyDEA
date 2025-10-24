@@ -6,7 +6,7 @@ The source code and dataset for the paper: Bai H, Bian X. Hybrid deep learning a
   <img width="1000" src="assets/HyDEA_workflow.png">
 </p>
 
-#Code
+## Code
 
 The code depends on PetIBM(https://github.com/barbagroup/PetIBM/tree/master?tab=readme-ov-file), python, pytorch, petsc4py.
 
