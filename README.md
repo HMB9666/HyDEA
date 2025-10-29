@@ -38,6 +38,7 @@ $ export PATH=<petibm-installation-directory>/bin:$PATH
 ```
 
 Run the following command to execute the case:
+
 (1) 2D lid-driven cavity flow, using the ICPCG solver for the Pressure Poisson Equation. Navigate to the "/home/xxx/petibm/PetIBM/examples/navierstokesICPCG/192cavity" directory and run:
 ```
 petibm-navierstokesICPCG
