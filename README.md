@@ -51,12 +51,12 @@ $ petibm-navierstokesHyDEA
 ```
 (3) One stationary circular cylinder immersed in 2D lid-driven cavity flow, using the ICPCG solver for the Pressure Poisson Equation:
 ```
-$ cd /home/xxx/petibm/PetIBM/examples/ decoupledibpmICPCG/192_1Cylinder
+$ cd /home/xxx/petibm/PetIBM/examples/decoupledibpmICPCG/192_1Cylinder
 $ petibm-decoupledibpmICPCG
 ```
 (4) One stationary circular cylinder immersed in 2D lid-driven cavity flow, using the HyDEA solver for the Pressure Poisson Equation:
 ```
-$ cd /home/xxx/petibm/PetIBM/examples/ decoupledibpmHyDEA/192_1Cylinder
+$ cd /home/xxx/petibm/PetIBM/examples/decoupledibpmHyDEA/192_1Cylinder
 $ petibm-decoupledibpmHyDEA
 ```
 
