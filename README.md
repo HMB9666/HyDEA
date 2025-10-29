@@ -60,11 +60,6 @@ cd /home/xxx/petibm/PetIBM/examples/decoupledibpmHyDEA/192_1Cylinder
 petibm-decoupledibpmHyDEA
 ```
 
-#### Contents
-
-1. [Requirements](#Requirements)
-1. [Citation](#Citation)
-
 ## Requirements
 > - Platforms: Ubuntu 20.04
 > - Mamba
