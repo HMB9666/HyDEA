@@ -6,7 +6,7 @@ The source code and dataset for the paper: [Bai H, Bian X. Hybrid deep learning 
   <img width="1000" src="assets/HyDEA_workflow.png">
 </p>
 
-#Code
+## Code
 
 The code depends on PetIBM(https://github.com/barbagroup/PetIBM/tree/master?tab=readme-ov-file), python, pytorch, petsc4py.
 
@@ -18,20 +18,20 @@ CMakeLists.txt : /home/xxx/petibm/PetIBM/applications/CMakeLists.txt
 
 soure files, for example: /home/xxx/petibm/PetIBM/applications/decoupledibpmHyDEA.cpp
 
-#Making dataset
+## Making dataset
 Enter the "Making_data" folder and run:
 ```
 python create_training_data.py
 ```
 
-#Training model
+## Training model
 Enter the "Training_code" folder and run:
 ```
 python main.py
 ```
 The trained weights for the 192x192 resolution model can be found at the following folder: “Logger/.../.../states/”
 
-#Running HyDEA
+## Running HyDEA
 Once PetIBM is installed, the libraries (shared and/or static) are located in the lib folder of your installation directory. The present software package comes with 4 application codes that use the PetIBM library (petibm-navierstokesICPCG, petibm-navierstokesHyDEA, petibm-decoupledibpmICPCG, petibm-decoupledibpmHyDEA). Upon successful installation, the binary executables for these applications are located in the bin folder of your installation directory. If PetIBM is not installed using conda (or mamba), you can prepend the PATH environment variable with the bin directory to use the binary executables:
 
 ```shell
