@@ -70,7 +70,7 @@ petibm-decoupledibpmHyDEA
 > - nlohmann
 
 
-##Citation
+## Citation
 If HyDEA contributes to a project that leads to a scientific publication, please cite the project.
 You can use this citation below.
 
