@@ -10,7 +10,9 @@ The source code and dataset for the paper: [Bai H, Bian X. Hybrid deep learning 
 
 The code depends on PetIBM(https://github.com/barbagroup/PetIBM/tree/master?tab=readme-ov-file), python, pytorch, petsc4py.
 
-PetIBM should be installed by following the procedure outlined in B.1 of official installation guide. Before compilation, ensure that the directories specified in both the CMakeLists.txt and the source files are correctly modified. 
+etIBM should be installed by following the procedure outlined in [B.1](https://github.com/barbagroup/PetIBM/blob/master/doc/markdowns/installation.md) of official installation guide. Before compilation, ensure that the directories specified in both the CMakeLists.txt and the source files are correctly modified. 
+
+
 
 CMakeLists.txt : /home/xxx/petibm/PetIBM/applications/CMakeLists.txt
 
