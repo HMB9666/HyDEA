@@ -41,23 +41,23 @@ Run the following command to execute the case:
 
 (1) 2D lid-driven cavity flow, using the ICPCG solver for the Pressure Poisson Equation:
 ```
-$ cd /home/xxx/petibm/PetIBM/examples/navierstokesICPCG/192cavity
-$ petibm-navierstokesICPCG
+cd /home/xxx/petibm/PetIBM/examples/navierstokesICPCG/192cavity
+petibm-navierstokesICPCG
 ```
 (2) 2D lid-driven cavity flow, using the HyDEA solver for the Pressure Poisson Equation:
 ```
-$ cd /home/xxx/petibm/PetIBM/examples/navierstokesHyDEA/192cavity
-$ petibm-navierstokesHyDEA
+cd /home/xxx/petibm/PetIBM/examples/navierstokesHyDEA/192cavity
+petibm-navierstokesHyDEA
 ```
 (3) One stationary circular cylinder immersed in 2D lid-driven cavity flow, using the ICPCG solver for the Pressure Poisson Equation:
 ```
-$ cd /home/xxx/petibm/PetIBM/examples/decoupledibpmICPCG/192_1Cylinder
-$ petibm-decoupledibpmICPCG
+cd /home/xxx/petibm/PetIBM/examples/decoupledibpmICPCG/192_1Cylinder
+petibm-decoupledibpmICPCG
 ```
 (4) One stationary circular cylinder immersed in 2D lid-driven cavity flow, using the HyDEA solver for the Pressure Poisson Equation:
 ```
-$ cd /home/xxx/petibm/PetIBM/examples/decoupledibpmHyDEA/192_1Cylinder
-$ petibm-decoupledibpmHyDEA
+cd /home/xxx/petibm/PetIBM/examples/decoupledibpmHyDEA/192_1Cylinder
+petibm-decoupledibpmHyDEA
 ```
 
 #### Contents
@@ -81,8 +81,7 @@ You can use this citation below.
 
 ```console
 @article{Bai_HyDEA,
-  title={Hybrid deep learning and iterative methods for accelerated solutions of viscous
-incompressible flow},
+  title={Hybrid deep learning and iterative methods for accelerated solutions of viscousincompressible flow},
   author={Heming Bai, and Xin Bian},
   journal={arXiv preprint arXiv:2506.03016},
   year={2025}
