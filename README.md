@@ -76,7 +76,7 @@ You can use this citation below.
 
 ```console
 @article{Bai_HyDEA,
-  title={Hybrid deep learning and iterative methods for accelerated solutions of viscousincompressible flow},
+  title={Hybrid deep learning and iterative methods for accelerated solutions of viscous incompressible flow},
   author={Heming Bai, and Xin Bian},
   journal={arXiv preprint arXiv:2506.03016},
   year={2025}
