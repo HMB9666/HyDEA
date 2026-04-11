@@ -75,13 +75,20 @@ If HyDEA contributes to a project that leads to a scientific publication, please
 You can use this citation below.
 
 ```console
-@article{bai2026hybrid,
+@article{
   title={Hybrid deep learning and iterative methods for accelerated solutions of viscous incompressible flow},
   author={Bai, Heming and Bian, Xin},
   journal={Journal of Computational Physics},
   pages={114747},
   year={2026},
   publisher={Elsevier}
+}
+
+@article{
+  title={Deep learning accelerated solutions of incompressible Navier-Stokes equations on non-uniform Cartesian grids},
+  author={Bai, Heming and Zhang, Dong and Cai, Shengze and Bian, Xin},
+  journal={arXiv preprint arXiv:2604.01800},
+  year={2026}
 }
 ```
 
